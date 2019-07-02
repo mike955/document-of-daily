@@ -1,0 +1,9 @@
+1. nginx
+  - https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
+  - https://draveness.me/docker
+2. docker
+  - https://yeasy.gitbooks.io/docker_practice/content/kubernetes/
+  - https://draveness.me/docker
+  - http://www.gayhub.cc/2018/02/07/Nginx%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E5%AE%9E%E6%88%98/
+3. http
+  - https://www.imperva.com/learn/performance/http-keep-alive/
